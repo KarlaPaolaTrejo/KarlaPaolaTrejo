@@ -3,7 +3,7 @@
  <h1 align="center">Hi, I'm Karla Trejo, but can you tell me KAT</h1> 
  <p align="center">
 
-I am a student of Project Formulation Area Administration in Mexico. Apart from that, I am studying programming because "technology is transforming education".....
+I am a student of Project Formulation and Evaluation Area Administration in Mexico. Apart from that, I am studying programming because "technology is transforming education".....
 
 <h2> About Me</h2>
 <img width="40%" align="right" alt="Github" src="https://static.vecteezy.com/system/resources/previews/005/483/320/non_2x/illustration-graphic-cartoon-character-of-programming-vector.jpg"/>
